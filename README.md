@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Dan Simonson's mariposaweb.net blog 
+  🚀 Dan Simonson's mariposaweb.net content
 </h1>
 
 ## **This App was created to demonstrate the use of Intersection Observer for infinite scrolling.**
