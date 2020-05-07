@@ -78,6 +78,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Infinite Scroll Using Intersection Observer</h1>
       <ul>
         {data.map((row) => (
           <li key={row} style={{ background: "blue" }}>

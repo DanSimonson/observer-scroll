@@ -27,6 +27,9 @@ span {
   display: block;
   padding: 1rem 0px;
 }
+h1 {
+  text-align: center;
+}
 
 /*.App {
   text-align: center;
